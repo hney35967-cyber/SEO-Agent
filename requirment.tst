@@ -1,7 +1,4 @@
-streamlit>=1.38.0
-
-google-genai>=0.1.0
-
-pandas>=2.0.0
-
-plotly>=5.18.0
+streamlit>=1.32.0
+google-generativeai>=0.8.3
+python-dotenv>=1.0.1
+plotly>=5.0.0
